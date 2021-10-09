@@ -1,0 +1,2 @@
+# Errorpage
+Hata Sayfasi

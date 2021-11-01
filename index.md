@@ -1,2 +1,4 @@
-## Hileyi Satın Aldığınız kişi ile iletişim kurun.
-Hile Başlatılırken Bir Sorun Meydana Geldi
+## Bilgisayarınızın Saat Ve Tarihinin Doğru olduğundan emin olun.
+
+## Sorun Çözülmezse 
+Hileyi Satın Aldığınız kişi ile iletişim kurun.
